@@ -1,29 +1,4 @@
 theme: jekyll-theme-minimal
 logo: media/scpologoreims.jpg
-description: "Simulation *Biodiversity is Politics* - 25-27 August 2021"
-<header>
-       
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
-
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-        
-        <ul class="downloads">
-          <li><a href=index>Enjeux des débats</strong></a></li>
-          <li><a href=format>Format et déroulé</strong></a></li>
-          <li><a href=acteurs>Acteurs et arguments</strong></a></li>
-        </ul>
-
-      </header>
-      <section>
-
-      {{ content }}
-
-      </section>
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>Dossier réalisé par Thomas Tari</p>
-        <p>Pour en savoir plus sur FORCCAST : <a href="http://controverses.org">controverses.org</a></p>
-        {% endif %}
-      </footer>
+title: "Biodiversity is Politics"
+description: "A simulation of controversial issues - 25-27 August 2021"
