@@ -2,12 +2,10 @@
 
 ## Arena of debates
 
-On September 30, 2021, the European Citizen' Initiative [*Save bees and farmers ! Towards a bee-friendly agriculture for a healthy environment*](https://europa.eu/citizens-initiative/initiatives/details/2019/000016_en) urging the European Commission to phase out synthetic pesticides, to restore biodiversity, and to support farmers in the transition, in order to "protect bees and people's health", will end its collection of statements of support. 
-If the initiative is signed by at least 1 million European adult citizens, with minimum numbers in at least seven EU countries, the European Commission will audition the stakeholders before officialy answering to the request. You will embody one of the stakeholders 
+On September 30, 2021, the European Citizens' Initiative [*Save bees and farmers ! Towards a bee-friendly agriculture for a healthy environment*](https://europa.eu/citizens-initiative/initiatives/details/2019/000016_en) urging the European Commission to phase out synthetic pesticides, to restore biodiversity, and to support farmers in the transition, in order to "protect bees and people's health", will end its collection of statements of support. 
+If the initiative is then signed by at least 1 million European adults, with minimum numbers in at least seven EU countries, the European Commission will have to work on issue and give an official answer to the citizens' request. You will pretend that this condition has been met, and enact a formal meeting led by representatives of the European Commission. These members will audition the supporters of the initiative, gather the diverse stakeholders, then hear conflicting claims, and finally statue on the issue.
 
-Local stakes
-One issue is especially crucial to the Champagne Ardennes Region: a family of pesticides, neonicotinoids, has been banned but can still be used in France, 
-Emergency authorisations in the Member States
+The topic is especially crucial to the French region of Champagne Ardennes, as one really controversial family of pesticides for the health of bees, neonicotinoids, have been reauthorised in France after an european ban, to help the local sugar beet farmers fighting the yellows virus. The notions of pescticides uses and agricultural systems, ecosystem services of pollination, risk analysis and regulation, endangered and invasive species, delineation and valuation of both nature and culture will be at the heart of your debates.
 
 ## Table of actors and resources
 
