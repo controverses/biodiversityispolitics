@@ -5,7 +5,9 @@
 ## Table of actors and resources
 
 || Actor | Main argument | Extra resources |
-|1| [European Commission](https://europa.eu/citizens-initiative/home_en) | [Bee health: What is the EU doing?](https://ec.europa.eu/commission/presscorner/detail/en/MEMO_14_260) | [Preventing bees' mortality](https://ec.europa.eu/food/animals/live-animals-trade-imports/honey-bees_en) |
+|1| [European Commission](https://ec.europa.eu/info/food-farming-fisheries/sustainability/environmental-sustainability/biodiversity_en) | [Farm to Fork Strategy](https://ec.europa.eu/food/horizontal-topics/farm-fork-strategy_en) | [Preventing bees' mortality](https://ec.europa.eu/food/animals/live-animals-trade-imports/honey-bees_en) |
+
+
 |2| [Food and Agriculture Organization of the United Nations](http://www.fao.org/news/story/en/item/1401317/icode/) | [Why bees matter](http://www.fao.org/3/i9527en/i9527en.pdf)| [The economic valuation of pollination services](http://www.fao.org/3/at523e/at523e.pdf)|
 |3| [European Food Safety Authority](https://www.efsa.europa.eu/en/aboutefsa) | [Protecting bees](https://www.efsa.europa.eu/en/topics/topic/bee-health)| [A new way forward for risk assessment](https://www.efsa.europa.eu/en/news/protecting-bees-new-way-forward-risk-assessment)|
 |4| [Save the Bees and Farmers](https://www.savebeesandfarmers.eu/eng) & [BeeLife](https://www.bee-life.eu/about)| [Allow nature to ensure our food security](https://579f1725-49c5-4636-ac98-72d7d360ac5b.filesusr.com/ugd/8e8ea4_d19d71b1d1374afc9d7797204a70ef83.pdf) | [A CAP for pollinators](https://579f1725-49c5-4636-ac98-72d7d360ac5b.filesusr.com/ugd/8e8ea4_a151cf2121f14e508cd7b0fc8610726d.pdf) |
