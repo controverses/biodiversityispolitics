@@ -12,7 +12,7 @@
 |5| [FNAB (organic farmers' union)](https://www.fnab.org/espace-presse/retrouvez-ici-tous-nos-communiques/1115-cp-la-fnab-demande-la-reouverture-des-arbitrages-sur-l-eco-regime) | [HVE certification: no benefit](https://www.wine-business-international.com/wine/news/french-biodiversity-office-leaks-damaging-report) or even [greenwashing?](https://etvpass.com/high-environmental-value-label-greenwashing-of-intensive-agriculture-news/) | [Truly sustainable Champagne?](https://sustainablewine.co.uk/how-far-away-is-truly-sustainable-champagne)|
 |6| [Confédération paysanne](https://www.confederationpaysanne.fr/sites/1/qui/documents/PLAQUETTE%20CONF-BD.pdf) & [Via Campesina](https://viacampesina.org/en/international-peasants-voice/) | [Le label HVE, outil de greenwashing](https://www.confederationpaysanne.fr/sites/1/articles/documents/HVE-Outil_Greenwahing_pas_TransitionAgricole.pdf) | [Biodiversity and Genetic Resources](https://viacampesina.org/en/biodiversity-and-genetic-resources12) |
 |7| [FIBL (organic farming research institute)](https://www.fibl.org/en/about-us) | [Organic agriculture promotes biodiversity](https://orgprints.org/id/eprint/20247/1/1548-biodiversity.pdf) | []() |
-|8| [INRAE](https://www.inrae.fr/en/biodiversity) | [Agriculture and Biodiversity Synergies](https://www.inrae.fr/sites/default/files/pdf/4pages-anglais.pdf)| [Biodiversity in organic fields and at farms-level](https://hal.inrae.fr/hal-02639230/document) |
+|8| [INRAE](https://www.inrae.fr/en/biodiversity) | [Agriculture and Biodiversity Synergies](https://www.inrae.fr/sites/default/files/pdf/4pages-anglais.pdf)| [Biodiversity in organic fields and at farm-level](https://hal.inrae.fr/hal-02639230/document) |
 |9| | | |
 |10| | | |
 |11| | | ||
