@@ -1,12 +1,11 @@
-#
+#Agricultural Biodiversity
 
 ## Arena of debates
 
 ## Table of actors and resources
 
 || Actor | Main argument | Extra resources |
-|1| [European Commission](https://ec.europa.eu/info/food-farming-fisheries/sustainability/environmental-sustainability/biodiversity_en) | [Farm to Fork Strategy](https://ec.europa.eu/food/horizontal-topics/farm-fork-strategy_en) | [Preventing bees' mortality](https://ec.europa.eu/food/animals/live-animals-trade-imports/honey-bees_en) |
-
+|1| [European Commission](https://ec.europa.eu/commission/presscorner/detail/en/IP_21_2711) | [Enhancing agricultural biodiversity](https://ec.europa.eu/info/food-farming-fisheries/sustainability/environmental-sustainability/biodiversity_en) |  [Farm to Fork Strategy](https://ec.europa.eu/food/horizontal-topics/farm-fork-strategy_en) | 
 
 |2| [Food and Agriculture Organization of the United Nations](http://www.fao.org/news/story/en/item/1401317/icode/) | [Why bees matter](http://www.fao.org/3/i9527en/i9527en.pdf)| [The economic valuation of pollination services](http://www.fao.org/3/at523e/at523e.pdf)|
 |3| [European Food Safety Authority](https://www.efsa.europa.eu/en/aboutefsa) | [Protecting bees](https://www.efsa.europa.eu/en/topics/topic/bee-health)| [A new way forward for risk assessment](https://www.efsa.europa.eu/en/news/protecting-bees-new-way-forward-risk-assessment)|
