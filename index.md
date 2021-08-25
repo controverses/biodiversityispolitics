@@ -8,6 +8,12 @@ Groups 1, 2, 3, 4, 5, 6, 7, 16, 17, 20 and BASc students will enact the simulati
 
 ***
 
+## Wednesday 25
+
+Presentation of the simulation (5.30pm), support : [Biodiversity is Politics](media/biodiversityispolitics.pdf)
+
+***
+
 ## Thursday 26
 ### Morning / Introduction of the arena, roles and their distribution
 Groups 1 to 7: 8-9.30am // Groups 2 to 14: 9.45-11.15am // Groups 15 to 20 and BASc: 11.30am-1pm
@@ -18,6 +24,8 @@ Between your morning and your afternoon sessions, you will have to read the reso
 Groups 1 to 7: 2-3.30pm // Groups 2 to 14: 3.45-5.15pm // Groups 15 to 20 and BASc: 5.30-7pm
 
 This workshop (followed by some personal work) will help you embody your role (arguments, objectives and strategies, interactions with other actors).
+
+***
 
 ## Friday 27
 ### Morning / Simulation of the arena in class
