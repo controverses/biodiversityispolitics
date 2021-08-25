@@ -6,6 +6,8 @@ Groups 8, 9, 10, 11, 12, 13, 14, 15, 18 and 19 will enact the simulation on [EU 
 
 Groups 1, 2, 3, 4, 5, 6, 7, 16, 17, 20 and BASc students will enact the simulation called [Why do bees matter?](bees.md).
 
+***
+
 ## Thursday 26
 ### Morning / Introduction of the arena, roles and their distribution
 Groups 1 to 7: 8-9.30am // Groups 2 to 14: 9.45-11.15am // Groups 15 to 20 and BASc: 11.30am-1pm
@@ -27,5 +29,7 @@ The actual simulation of debate, followed by some feedback.
 Groups 1 to 14 : 2-3.15pm // Groups 15 to 20: 3.30-4.45pm
 
 Two groups, having worked on different simulations, will gather to discuss the issues raised.
+
+***
 
 Lecturer: Thomas Tari (thomas.tari@sciencespo.fr) / Pedagogical team: Alexis Aulagnier, Luigi Cerri, Estelle Chauvard, Marianne Dos Reis (Le Ba), Germain Meulemans and Ines Mosgalik.
