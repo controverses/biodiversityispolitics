@@ -1,8 +1,6 @@
 # Biodiversity is Politics
 
-During two days (on Thursday 26 and Friday 27 August), you will be immersed in a series of debates concerning: - the interactions of scientific and technical controversies related to the measure, the prevention of, and the fight against biodiversity loss, - but also the economical, political and social stakes that are deeply intertwined. You will learn and argue from an actor's point of view, that you will embody in different arenas of lively discussions. The issues will be tackled at both european and regional levels (around Reims). This event is organised by the Center for the Exploration of Controversies of Sciences Po.
-
-Two different simulations regarding the relations between agricultural practices and biodiversity, and the politics of bees.
+During two days (on Thursday 26 and Friday 27 August), you will be immersed in a series of debates concerning: - the interactions of scientific and technical controversies related to the measure, the prevention of, and the fight against biodiversity loss, - but also the economical, political and social stakes that are deeply intertwined. You will learn and argue from an actor's point of view, that you will embody in different arenas of lively discussions. The issues will be tackled at both european and regional levels (around Reims). This event is organised by the Center for the Exploration of Controversies of Sciences Po. Two different simulations have been created, regarding the relations between agricultural practices and biodiversity, and the politics of bees.
 
 Groups 8, 9, 10, 11, 12, 13, 14, 15, 18 and 19 will enact the simulation on [EU agriculture and biodiversity](agriculture.md).
 
