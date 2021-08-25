@@ -10,7 +10,7 @@ Groups 1, 2, 3, 4, 5, 6, 7, 16, 17, 20 and BASc students will enact the simulati
 
 ## Wednesday 25
 
-Presentation of the simulation (5.30pm), support : [Biodiversity is Politics (not uploaded yet)](media/biodiversityispolitics.pdf)
+Presentation of the simulation (5.30pm), support : [Biodiversity is Politics](media/biodiversityispolitics.pdf)
 
 ***
 
