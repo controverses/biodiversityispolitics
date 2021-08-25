@@ -2,6 +2,9 @@
 
 ## Arena of debates
 
+In May 2020, the European Commission had released its Biodiversity Strategy for 2030 and a 'Farm to Fork' Strategy presented as "a roadmap for further initiatives on preserving and protecting biodiversity and on designing a fair, healthy and environmentally-friendly food system", in line with the EU Green Deal (investments to be the first climate-neutral continent). NGOs
+Common Agricultural Policy
+
 ## Table of actors and resources
 
 || Actor | Main argument | Extra resources |
