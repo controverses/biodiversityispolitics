@@ -1,9 +1,12 @@
-# Agricultural Biodiversity
+# EU Agricultural practices and Biodiversity
 
 ## Arena of debates
 
-In May 2020, the European Commission had released its [Biodiversity Strategy for 2030](https://ec.europa.eu/environment/strategy/biodiversity-strategy-2030_en) and a ['Farm to Fork' Strategy](https://ec.europa.eu/food/horizontal-topics/farm-fork-strategy_en) presented as "a roadmap for further initiatives on preserving and protecting biodiversity and on designing a fair, healthy and environmentally-friendly food system", in line with the [EU Green Deal](https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en) (investments to be the first climate-neutral continent). NGOs
-Common Agricultural Policy
+In May 2020, the European Commission had released its [Biodiversity Strategy for 2030](https://ec.europa.eu/environment/strategy/biodiversity-strategy-2030_en) and a ['Farm to Fork' Strategy](https://ec.europa.eu/food/horizontal-topics/farm-fork-strategy_en) presented as "a roadmap for further initiatives on preserving and protecting biodiversity and on designing a fair, healthy and environmentally-friendly food system", in line with the [EU Green Deal](https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en) (investments to be the first climate-neutral continent). The ambitious objectives depicted have sparked hopes, especially amongst advocates for the protection of the environment, as some farmers and agroindustrial firms raised issues regarding the social and economical impacts of the measures to be implemented. As the Europeans Commission released in June 2021 a [Political agreement on the new Common Agricultural Policy (2023-2027)](https://ec.europa.eu/commission/presscorner/detail/en/IP_21_2711), the positions flipped: some NGOs underlined the negative impacts on biodiversity, calling the new CAP a "giant step towards killing nature".
+
+You will 
+
+
 
 ## Table of actors and resources
 
