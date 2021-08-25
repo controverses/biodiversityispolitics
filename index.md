@@ -23,5 +23,4 @@ Groups 1 to 7: 8-9.30am // Groups 2 to 14: 9.45-11.15am // Groups 15 to 20 and B
 
 ### Afternoon / Mixed discussion of the stakes
 
-Lecturer: Thomas Tari (thomas.tari@sciencespo.fr)
-Pedagogical team: Alexis Aulagnier, Luigi Cerri, Estelle Chauvard, Marianne Dos Reis (Le Ba), Germain Meulemans and Ines Mosgalik.
+Lecturer: Thomas Tari (thomas.tari@sciencespo.fr) / Pedagogical team: Alexis Aulagnier, Luigi Cerri, Estelle Chauvard, Marianne Dos Reis (Le Ba), Germain Meulemans and Ines Mosgalik.
