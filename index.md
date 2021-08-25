@@ -34,7 +34,7 @@ Groups 1 to 7: 8-9.30am // Groups 2 to 14: 9.45-11.15am // Groups 15 to 20 and B
 The actual simulation of debate, followed by some feedback.
 
 ### Afternoon / Cross talk about the issues at stake
-Groups 1 to 14 : 2-3.15pm // Groups 15 to 20: 3.30-4.45pm
+Groups 1 to 14 : 2-3.30pm // Groups 15 to 20: 4-5.30pm
 
 Two groups, having worked on different simulations, will gather to discuss the issues raised.
 
