@@ -21,6 +21,6 @@ Groups 1 to 7: 2-3.30pm // Groups 2 to 14: 3.45-5.15pm // Groups 15 to 20 and BA
 ### Morning / Simulation in class
 Groups 1 to 7: 8-9.30am // Groups 2 to 14: 9.45-11.15am // Groups 15 to 20 and BASc: 11.30am-1pm
 
-### Afternoon / Mixed discussion of the stakes
+### Afternoon / Discussion about the stakes
 
 Lecturer: Thomas Tari (thomas.tari@sciencespo.fr) / Pedagogical team: Alexis Aulagnier, Luigi Cerri, Estelle Chauvard, Marianne Dos Reis (Le Ba), Germain Meulemans and Ines Mosgalik.
