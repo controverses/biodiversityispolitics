@@ -40,4 +40,4 @@ Two groups, having worked on different simulations, will gather to discuss the i
 
 ***
 
-Lecturer: Thomas Tari (thomas.tari@sciencespo.fr) / Pedagogical team: Alexis Aulagnier, Luigi Cerri, Estelle Chauvard, Marianne Dos Reis (Le Ba), Germain Meulemans and Ines Mosgalik.
+Lecturer: Thomas Tari (thomas.tari@sciencespo.fr) / Pedagogical team: Alexis Aulagnier, Luigi Cerri, Estelle Chauvard, Marianne Dos Reis (Le Ba), Lucie Sénéchal-Perrouault and Clémence Seurat.
