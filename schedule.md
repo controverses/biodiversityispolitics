@@ -1,4 +1,4 @@
-# Schedule and arena
+# Schedule and Arena of debates
 
 ## Monday 22
 
