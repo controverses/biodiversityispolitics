@@ -1,11 +1,17 @@
 # Biodiversity is Politics
 
-During three days, you will be immersed in a series of debates concerning the interactions of scientific and technical controversies related to the measure, the prevention of, and the fight against biodiversity loss, but also the cultural, economical, political and social stakes that are deeply intertwined. You will learn and argue from an actor's point of view, that you will embody in different arenas of lively discussions. This event is organised by the Center for the Exploration of Controversies of Sciences Po.
+During three days, you will be immersed in a series of debates concerning the interactions of scientific and technical controversies related to the measure, the prevention of, and the fight against biodiversity loss, but also the cultural, economical, political and social stakes that are deeply intertwined. You will learn and argue from an actor's point of view, that you will embody in an arena of lively discussions. This event is organised by the Center for the Exploration of Controversies of Sciences Po.
 
 ![](/media/PA.png)
+_Terrestrial (15%) and marine (7%) protected areas on Earth_
 
 ## 30 by 30, a conservation battleground
 
+In 2018, Edward Owen Wilson, one of the of the notion of biodiversity, published a book Half-Earth. The UN 
 target 3
 
-> Ensure and enable at least [30 per cent] of [all [---] and of [---]] [globally] [at the national level] especially [key biodiversity areas[, ecologically or biologically significant areas, threatened ecosystems] and other] areas of particular importance for biodiversity [and ecosystem functions and services] are [effectively] conserved through [effectively] [well] managed, ecologically representative, well-connected and equitably governed [systems] [networks] of [highly and fully] protected areas [including a substantial portion that is strictly protected] and other effective area-based conservation measures, [and [indigenous] [traditional] territories] [, where applicable,] [which prohibits environmentally damaging activities] and integrated into the wider land[-]/[scapes] and seascapes [and national and regional ecological networks], [in accordance with national priorities and capabilities,] [including the right to economic development, will not affect the right or ability of all Parties to access financial and other resources required for the effective implementation of the whole Framework,] [while ensuring that [sustainable use] of these areas, if in place, contributes to biodiversity conservation,] [recognizing the contribution of indigenous peoples and local communities to their management] and [respecting] [ensuring] the rights of indigenous peoples and local communities. Source: [Convention on Biological Diversity - Post-2020 Global Diversity Framework - Draft Recommendation](https://www.cbd.int/doc/c/36ac/ae16/ff8fc251490eaa3184c70c06/wg2020-04-crp-06-add1-en.pdf)
+
+
+> Ensure that at least 30 per cent globally of land areas and of sea areas, especially areas of particular importance for biodiversity and its contributions to people, are conserved through effectively and equitably managed, ecologically representative and well-connected systems of protected areas and other effective area based conservation measures, and integrated into the wider landscapes and seascapes.
+
+> Source: [Convention on Biological Diversity - Post-2020 Global Diversity Framework - Draft Recommendation](https://www.cbd.int/doc/c/36ac/ae16/ff8fc251490eaa3184c70c06/wg2020-04-crp-06-add1-en.pdf)
