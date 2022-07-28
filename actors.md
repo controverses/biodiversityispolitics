@@ -1,3 +1,5 @@
+Actors and resources
+
 || Actor | Main argument | Resource 2 |  Resource 3 |
 |1| [Convention on Biological Diversity](https://www.cbd.int/intro/) | [A new global framework for 2030](https://www.cbd.int/article/draft-1-global-biodiversity-framework) | [Conserving 30%: what should count?](https://naturebeyond2020.com/wp-content/uploads/2021/09/Conserving-at-least-30-of-the-planet-by-2030-What-should-count-2.pdf)| [30x30 is not a one-size-fits-all](https://www.oneearth.org/30-x-30-biodiversity-target/) |
 |2| [IUCN](https://www.iucn.org/about-iucn) & [Campaign for Nature](https://www.campaignfornature.org/) | [It has to be the right 30%](https://www.iucn.org/crossroads-blog/202108/we-need-protect-and-conserve-30-planet-it-has-be-right-30) | [A review of relevant research](https://www.campaignfornature.org/sbstta-a-review-of-relevant-research) | [Costs, benefits and economic implications](https://static1.squarespace.com/static/5c77fa240b77bd5a7ff401e5/t/5f05c366f5edb16b875b3964/1594213260537/Waldron+Report-Highlights.pdf) |
