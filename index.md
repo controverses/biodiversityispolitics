@@ -5,6 +5,8 @@ During three days, you will be immersed in a series of debates concerning the in
 ![](/media/PA.png)
 <div align="center"><i>Terrestrial (15%) and marine (7%) protected areas on Earth</i></div>
 
+***
+
 ## 30 by 30, a conservation battleground
 
 In 2018, Edward Owen Wilson, one of the of the notion of biodiversity, published a book Half-Earth. The UN 
