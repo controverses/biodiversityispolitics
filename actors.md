@@ -1,4 +1,4 @@
-#Actors and resources
+# Actors and resources
 
 || Actor | Main argument | Resource 2 |  Resource 3 |
 |1| [Convention on Biological Diversity](https://www.cbd.int/intro/) | [A new global framework for 2030](https://www.cbd.int/article/draft-1-global-biodiversity-framework) | [Conserving 30%: what should count?](https://naturebeyond2020.com/wp-content/uploads/2021/09/Conserving-at-least-30-of-the-planet-by-2030-What-should-count-2.pdf)| [30x30 is not a one-size-fits-all](https://www.oneearth.org/30-x-30-biodiversity-target/) |
