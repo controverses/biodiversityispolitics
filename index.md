@@ -3,7 +3,7 @@
 During three days, you will be immersed in a series of debates concerning the interactions of scientific and technical controversies related to the measure, the prevention of, and the fight against biodiversity loss, but also the cultural, economical, political and social stakes that are deeply intertwined. You will learn and argue from an actor's point of view, that you will embody in an arena of lively discussions. This event is organised by the Center for the Exploration of Controversies of Sciences Po.
 
 ![](/media/PA.png)
-_Terrestrial (15%) and marine (7%) protected areas on Earth_
+[center]_Terrestrial (15%) and marine (7%) protected areas on Earth_[/center]
 
 ## 30 by 30, a conservation battleground
 
