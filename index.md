@@ -1,6 +1,6 @@
 # Biodiversity is Politics
 
-## The 30 by 30 controversy
+## The 30 by 30, a conservation battleground
 
 ![](/media/PA.png)
 
