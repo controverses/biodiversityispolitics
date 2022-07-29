@@ -11,7 +11,7 @@ In 2016, Edward Osborne Wilson, one of the scientists who coined the concept of 
 
 > _Initial proposition_: Ensure that at least 30 per cent globally of land areas and of sea areas, especially areas of particular importance for biodiversity and its contributions to people, are conserved through effectively and equitably managed, ecologically representative and well-connected systems of protected areas and other effective area based conservation measures, and integrated into the wider landscapes and seascapes.
 > 
-> _Ongoing draft_: see [CBD - Draft Recommendation for the Post-2020 Global Diversity Framework](https://www.cbd.int/doc/c/36ac/ae16/ff8fc251490eaa3184c70c06/wg2020-04-crp-06-add1-en.pdf)
+> _Ongoing draft_: see [CBD - Draft for the Post-2020 Global Diversity Framework](https://www.cbd.int/doc/c/36ac/ae16/ff8fc251490eaa3184c70c06/wg2020-04-crp-06-add1-en.pdf)
 
 There is today no consensus on the 30x30 plan. If some actors find the initiative environmentally too radical, or on the contrary challenge the criteria to define protected areas, others criticize the underlining concept of fortress conservation, the outdated vision of nature thought as pristine wilderness, and its irrelevance in the Anthropocene. Some stakeholders even claim it to be a threat for human rights, as they remind that, historically, local and indigenous populations have been displaced, and sometimes even tortured or killed for the sake of nature conservation; they denounce a new form of green colonialism.
 
