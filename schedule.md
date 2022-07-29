@@ -1,4 +1,4 @@
-# Schedule and arena of debates
+# Schedule of the week
 
 ## Lecture [Monday 22]
 
