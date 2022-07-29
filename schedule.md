@@ -1,4 +1,4 @@
-# Workshops schedule
+# Schedule
 
 ## Lecture [Monday 22]
 
