@@ -1,4 +1,4 @@
-# Schedule of the week
+# Schedule for the week
 
 ## Lecture [Monday 22]
 
@@ -9,7 +9,7 @@ Presentation of the issue and its stakes [Amphi LS01, from 3.45 to 4.45pm], supp
 ## Workshops [Wednesday 24 - Friday 26]
 
 ### 1 // Introduction of the arena, roles and their distribution
-Groups 1 to 7: 8-9.30am // Groups 2 to 14: 9.45-11.15am // Groups 15 to 20 and BASc: 11.30am-1pm
+Groups 1,4,7,10,13,16,19: Wed. 8-9.30am // Groups 2,5,8,11,14,17,20: Wed. 9.45-11.15am // Groups 3,6,9,12,15,18,21: Wed. 11.30am-1pm
 
 Between your morning and your afternoon sessions, you will have to read the resources relative to your role, may look for others, and list your potential questions.
 
@@ -30,6 +30,3 @@ This workshop (followed by some personal work) will help you embody your role (a
 Groups 1 to 7: 8-9.30am // Groups 2 to 14: 9.45-11.15am // Groups 15 to 20 and BASc: 11.30am-1pm
 
 The actual simulation of debate, followed by some feedback.
-
-Description of the arena: 
-
