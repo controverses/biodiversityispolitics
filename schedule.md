@@ -2,7 +2,7 @@
 
 ## Lecture [Monday 22]
 
-Presentation of the issue and its stakes [Amphi LS01, from 3.45 to 4.45pm]: [slides](/media/lecture.pdf)
+Presentation of the issue and its stakes [Amphi LS01, from 3.45 to 4.45pm]: [slides](/media/lecture.pdf).
 
 ***
 
