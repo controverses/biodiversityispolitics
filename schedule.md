@@ -6,7 +6,7 @@
 
 ***
 
-## Workshops [Tuesday 29 - Friday 1]
+## Workshops [Tuesday 29 - Thursday 31]
 
 ### 1 // Introduction of the arena, roles and their distribution [Tuesday 29]
 Groups 1,4,7,10,13,16 & 19: Tue. 2-3.30pm // Groups 2,5,8,11,14,17 & 20: Tue. 9-10.30am // Groups 3,6,9,12,15,18 & BASc: Tue. 11am-12.30pm
