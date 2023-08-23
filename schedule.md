@@ -25,7 +25,7 @@ This workshop is designed to help you embody your role both regarding content (o
 
 ***
 
-## 4 // Simulation of debate [Friday 1]
+## Simulation of debate [Friday 1]
 Groups 1,4,7,10,13,16 & 19: Fri. 9-10.30pm // Groups 2,5,8,11,14,17 & 20: Fri. 11am-12.30pm // Groups 3,6,9,12,15,18 & BASc: Fri. 2.30-4pm
 
 The actual simulation of debate, followed by some feedback and class discussion on the theme and the experience.
