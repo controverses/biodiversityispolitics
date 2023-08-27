@@ -2,7 +2,7 @@
 
 ## Lecture [Monday 28]
 
-[Presentation of the issue and its stakes [Amphi LS01, from 3.45 to 4.45pm]]()
+[Presentation of the issue and its stakes [Amphi LS01, from 3.45 to 4.45pm]](/media/biodiversityispolitics2023.pdf)
 
 ***
 
