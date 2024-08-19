@@ -11,7 +11,7 @@
 ### 1 // Introduction of the arena, roles and their distribution
 Groups 1,4,7,10,13,16 & 19: Tue. 2.30-4pm // Groups 2,5,8,11,14,17 & 20: Tue. 08.30-10am // Groups 3,6,9,12,15,18 & BASc: Tue. 10.30am-12pm
 
-The seminar teacher introduces the arena of debate and the list of actors and resources, then distributes the roles among eleven groups (usually of two, depending on the number of students enrolled in your class). Between the first and the second session, you have to read the resources relative to your role, may look for others, and list your potential questions.
+The seminar teacher introduces the arena of debate and the list of actors and resources, then distributes the roles among ten groups (usually of two, depending on the number of students enrolled in your class). Between the first and the second session, you have to read the resources relative to your role, may look for others, and list your potential questions.
 
 ### 2 // Workshop on your actor arguments
 Groups 1,4,7,10,13,16 & 19: Wed. 2-3.30pm // Groups 2,5,8,11,14,17 & 20: Wed. 9-10.30am // Groups 3,6,9,12,15,18 & BASc: Wed. 11am-12.30pm
