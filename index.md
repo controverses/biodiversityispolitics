@@ -4,7 +4,7 @@ During a week, you will be immersed in the preparation and the simulation of a d
 
 ## Make the Sahel Great Again, debating the Great Green Wall
 
-![](/media/PA.png)
-> Terrestrial (15%) and marine (7%) protected areas on Earth
+![](/media/ggw.webp)
+> UNCCD
 
 As [one of the main actors concerned by the issue](/biodiversityispolitics/actors), you are invited to reenact these discussions in a roundtable of the working group that aimed to settle the controversy.
