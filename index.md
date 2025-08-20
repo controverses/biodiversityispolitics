@@ -7,4 +7,7 @@ During a week, you will be immersed in the preparation and the simulation of a d
 ![](/media/ggw.webp)
 > UNCCD
 
+![](/media/ggwmap.avif)
+> GGW
+
 As [one of the main actors concerned by the issue](/biodiversityispolitics/actors), you are invited to reenact these discussions in a roundtable of the working group that aimed to settle the controversy.
