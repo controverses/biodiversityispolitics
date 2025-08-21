@@ -1,4 +1,4 @@
-# Actors and resources
+# Roles and resources
 
 || Actor | Main argument | Resource 2 |  Resource 3 |
 |1| [UN Convention to Combat Desertification (UNCCD)](https://www.unccd.int/our-work/ggwi) | [Independent review of the GGW Accelerator](https://www.unccd.int/sites/default/files/2024-05/Summary%20of%20the%20GGWA%20Review%20EN.pdf) | [Building peace in the Sahel with the GGW (UNDP)](https://undp-climate.exposure.co/great-green-wall)| [Expanding Africa’s GGW (FAO)](https://www.fao.org/interactive/great-green-wall/en/) |
