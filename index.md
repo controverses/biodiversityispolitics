@@ -6,14 +6,12 @@ For one week, you will be immersed in the preparation and simulation of a debate
 
 ![](/media/ggw.webp)
 
-The United Nations CCD describes the Great Green Gall, called for by Thomas Sankara in 1986 and initiated in 2002, as such:
+This is how the United Nations Convention to Combat Desertification describes the Great Green Wall initiative:
 
 > Imagine a living symbol of hope, the largest living structure on the planet, one that stretches 8,000km across Africa, ushering in a new era of sustainability and economic growth. Launched in 2007 by the African Union, the game-changing African-led Great Green Wall initiative aims to restore the continent’s degraded landscapes and transform millions of lives in the Sahel. This ambitious project is being implemented across 22 African countries and will revitalize thousands of communities across the continent. [...] The GGW initiative’s ambition is to restore 100 million hectares of currently degraded land; sequester 250 million tons of carbon and create 10 million green jobs by 2030.
 
 ![](/media/ggwmap.avif)
 
-But many controversies, regarding the efficiency of the projects, the allocation of water resources, the impacts and the participation of local populations, the instability of the region or the concept of desertification in itself, took place, while only 4% of the target areas were said to be covered at the beginning of the 2020s. The UNCCD explains the "Accelerator".
-
-> On 11 January 2021, during the One Planet Summit, President Emmanuel Macron of France and other world leaders announced the launch of the Great Green Wall Accelerator and pledged USD 14.3 billion in new funding. The Great Green Wall Accelerator [...] aims to facilitate collaboration among donors and stakeholders involved in the Great Green Wall Initiative, and to help all actors to better coordinate, monitor, and measure the impact of their actions.
+However, many controversies emerged, regarding the efficiency of the projects that were implemented, the allocation of water resources, the impacts and the participation of local populations, the instability of the region or the concept of desertification in itself, while only 4% of the target areas were said to be covered at the beginning of the 2020s. So on 11 January 2021, during the One Planet Summit, President Emmanuel Macron of France and other world leaders announced the launch of the Great Green Wall Accelerator and pledged USD 14.3 billion in new funding. This Great Green Wall Accelerator 'aims to facilitate collaboration among donors and stakeholders involved in the Great Green Wall Initiative, and to help all actors to better coordinate, monitor, and measure the impact of their actions'.
 
 To date, multilateral and bilateral organizations have raised more than USD 19 billion for this initiative (including USD 1 billion from the founder of Amazon, Jeff Bezos). According to the UNCCD timeline, following the transfer of the Accelerator unit to the Pan African Agency in 2024, the year 2025 is dedicated to 'review and evaluate the impact of Accelerator investments and progress made towards the 2030 GGW ambitions'. As [one of the key players involved in this issue](/biodiversityispolitics/actors), you are invited to participate in a roundtable discussion to conduct this assessment and debate the next steps to be taken.
