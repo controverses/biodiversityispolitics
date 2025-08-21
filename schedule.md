@@ -1,8 +1,11 @@
 # Schedule
 
+![](/media/2025_planning.png)
+> Planning
+
 ## Lecture [Monday 26]
 
-[Presentation of the issue and its stakes [Amphi LS01, from 3.45 to 4.45pm]](/media/biodiversityispolitics2024.pdf)
+Presentation of the issue and its stakes Amphi LS01, from 3.45 to 4.45pm
 
 ***
 
